@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace arrays
+namespace schedulue_maker
 {
     class Program
     {
